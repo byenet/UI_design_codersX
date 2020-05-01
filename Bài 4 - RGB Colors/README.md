@@ -20,7 +20,8 @@
 ![Imgur](https://i.imgur.com/F259jvP.png)
 <p align="center">
   <img src="https://i.imgur.com/5W4HJWx.png">
-</p>
+</p>  
+
 ![Imgur](https://i.imgur.com/IUw0Nd8.png) 
  
 ![Imgur](https://i.imgur.com/IZFwrng.png)
