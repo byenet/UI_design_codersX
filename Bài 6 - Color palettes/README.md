@@ -6,6 +6,5 @@
 
 * [https://coolors.co/](https://coolors.co/)  
 ![Imgur](https://i.imgur.com/CJt7EsJ.png)  
-
-	![Imgur](https://i.imgur.com/lN3ViIY.png)
+![Imgur](https://i.imgur.com/lN3ViIY.png)
 * Dùng từ khóa color scheme, color palettes.
