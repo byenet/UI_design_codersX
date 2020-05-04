@@ -51,6 +51,7 @@
 
 * Điểm trừ : 
 	* Vì ảnh vector giới hạn các tone màu cơ bản nên khi xử lí file vector, bạn sẽ gặp khó khăn trong việc xử lí màu hơn.  
+	* VÌ tự động cập nhật lại điểm ảnh, số lượng vị trí của điểm đó nên khi làm web, app,.. có thể sẽ không đảm bảo được performance.
 	
 ![Imgur](https://i.imgur.com/KRI4dKI.jpg)  
 
